@@ -1,0 +1,10 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Khalil",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
